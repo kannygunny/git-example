@@ -1,6 +1,6 @@
 
-var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
-var xhr = new XMLHttpRequest();
+// var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
+// var xhr = new XMLHttpRequest();
 
 ///////////////// ยอดรวม
 var xmlHttp = new XMLHttpRequest();
