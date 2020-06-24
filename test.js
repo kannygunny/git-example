@@ -2,6 +2,10 @@
 // var XMLHttpRequest = require("xmlhttprequest").XMLHttpRequest;
 // var xhr = new XMLHttpRequest();
 
+
+
+
+
 ///////////////// ยอดรวม
 var xmlHttp = new XMLHttpRequest();
 xmlHttp.open( "GET", "https://covid19.th-stat.com/api/open/today", false ); // false for synchronous request
